@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# C++ build files
+a.out
+*.out
+*.o
+*.obj
+*.exe
